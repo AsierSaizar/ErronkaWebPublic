@@ -1,0 +1,32 @@
+.main-content {
+    text-align: center;
+    background-color: rgb(35, 34, 34);
+    padding: 100px 0;
+    grid-template-columns:100%;
+}
+
+h1 {
+    color: #959595;
+}
+
+p { 
+    color: #666;
+    line-height: 1.6;
+}
+
+.footer {
+    padding: 100px 0;
+    background-color: #2d2c2c;
+    color: #cbc8c8;
+    text-align: center;
+    
+}
+
+
+
+
+#sareSozialak {
+    display: grid;
+    align-items: center;
+    grid-template-columns: repeat(4, 25%) ;
+}
